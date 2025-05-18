@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">Hi there! 👋 I'm <span style="color:#e75480">Yoshitha Maddineni</span></h3>
-<p align="center">Final Year B.Tech Student | Full Stack Web Developer | Data Enthusiast | Pythonista | Student Leader</p>
+<p align="center">Final Year B.Tech Student | ISRO SDSC SHAR Range Operations Intern | GITAM Training and Competency Development Intern | Machine Learning & Full Stack Developer | Data Scientist | Pythonista | Student Leader</p>
 
 ---
 
@@ -17,26 +17,36 @@
 
 ### 🔭 What I’m Working On
 
+- 🌦 **ISRO MAUSAM**: Advanced weather prediction system using hybrid ML models
 - 🚀 **Salesforce Launchpad (PwC Acceleration Program)**  
 - 🧩 **ServiceNow CSA & CAD Certification Training**  
-- 👥 **Training & Competency Development Intern**, GITAM CGC  
-- 🌐 Web Dev Projects: Alumni Connect Portal, Color-based Outfit Recommender
+- 👥 **Training & Competency Development Intern**, GITAM CGC
+- 🚀 **Range Operations Intern**, ISRO SDSC SHAR
+- 🌐 **Full Stack Web Development** projects using JAVA 
 
 ---
 
 ### 🌱 I’m Currently Learning
 
-- 🧠 **Neural Networks & Deep Learning**  
-- 📊 **Data Science & Analytics**  
-- 🐧 **Linux** (Shell scripting, system internals)  
-- ☁️ **Salesforce & ServiceNow Platforms**  
-- ⚙️ **Intermediate Python**
+- 🌩 **Advanced Time Series Forecasting** (Weather/Climate applications)
+- 🧠 **Transformer Architectures** for sequential data
+- 📊 **Big Data Analytics** for meteorological datasets
+- ☁️ **Salesforce & ServiceNow Platforms**
+- ☁️ **ServiceNow Fundamentals**
 
 ---
 
-### 💼 Projects
+### 💼 Featured Projects
 
-#### 🧥 Myntra HackerRamp – *Color-Based Outfit Recommender*
+#### 🌦 ISRO MAUSAM - Weather Forecasting System
+**Hybrid ML system for rainfall prediction (ISRO data 2010-2011)**
+
+- ⚡ **0.779 R²** for rainfall prediction (CNN-LSTM-XGBoost ensemble)
+- 🌐 **Deployed Web App** with interactive visualization (Netlify)
+- 🕒 **Multi-horizon forecasting** (1hr/2hr/3hr predictions)
+- 🔧 *Tech Stack:* Python, TensorFlow, XGBoost, Netlify, JavaScript
+
+#### 🧥 Myntra HackerRamp – Color-Based Outfit Recommender
 A full-stack intelligent outfit suggestion platform.
 
 - 📷 Uploads user images and detects skin tone  
@@ -44,7 +54,7 @@ A full-stack intelligent outfit suggestion platform.
 - 🛍️ Built with a clean Myntra-style UI for realism  
 - 🔧 *Tech Stack:* Python, HTML, CSS, JS
 
-#### 🔗 WLF Hackathon – *Alumni Connect Portal*
+#### 🔗 WLF Hackathon – Alumni Connect Portal
 Connecting students with alumni mentors in real-time.
 
 - 🔍 Filters mentors by domain, location, availability  
@@ -52,48 +62,34 @@ Connecting students with alumni mentors in real-time.
 - 🔄 Backend updates dynamically via Google Sheets API  
 - 🔧 *Tech Stack:* Flask, HTML, CSS, JS, Python
 
-#### 📈 COVID-19 Data Dashboard – *Visualization Tool*
-Built during a Coursera specialization, this dashboard visualizes the spread and trends of COVID-19.
-
-- 🌍 Interactive plots and insights from real datasets  
-- 🔧 *Tech Stack:* Python, Pandas, Matplotlib, Plotly
-
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
 ### 👯 Let’s Collaborate On
 
-- 🧑‍💻 Full Stack Applications  
-- 🧠 AI/ML and Neural Network Projects  
-- 📊 Data Analysis & Dashboards  
-- 🌍 Open Source, Hackathons, Community Outreach  
-
----
-
-### 💬 Ask Me About
-
-- 🎨 Web Design & Development  
-- 📈 Data Science & Visualization  
-- 🧑‍🏫 Student Leadership & Career Resources  
-- 🎙️ Event Hosting and Moderation
+- 🌦 Climate/Weather ML projects  
+- 🧠 Hybrid AI systems (CNN + LSTM + XGBoost)  
+- ☁️ Cloud-based ML deployments
+- 🧠 Web Development and Neural Network Projects
+- 📊 Real-time data visualization dashboards  
 
 ---
 
@@ -104,26 +100,6 @@ Built during a Coursera specialization, this dashboard visualizes the spread and
 
 ---
 
-### 🏅 Extras
-
-- 🎤 Anchor at **HR Conclave 2025**, **CII MSME Summit**, **nasscom Career Fair 2025**  
-- 🎽 Member, **GITAM Sports Committee (2022-24)**  
-- 📜 Certified in:  
-  - **Python for Everybody (UMich - Coursera)**  
-  - **COVID-19 Data Visualization (Coursera)**  
-
----
-
-### 🌍 Languages
-
-- 🇬🇧 English – *Bilingual Fluency*  
-- 🇮🇳 Hindi – *Fluent*  
-- 🇮🇳 Telugu – *Native Language*  
-- 🇩🇪 German – *High A1 (CEFR)*  
-- 🇫🇷 French – *Low A1 (CEFR)*
-
----
-
 ### ⚡ Fun Fact
 
-> I don't just study tech, I aim to help others express their talents verbally and technically.
+> My weather model can predict rain better than my local meteorologist! ☔
