@@ -102,4 +102,4 @@ Connecting students with alumni mentors in real-time.
 
 ### ⚡ Fun Fact
 
-> My weather model can predict rain better than my local meteorologist! ☔
+> I don't just study tech, I aim to help others express their talents verbally and technically.
