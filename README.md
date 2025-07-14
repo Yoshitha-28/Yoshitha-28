@@ -3,32 +3,28 @@
 </p>
 
 <h3 align="center">Hi there! 👋 I'm <span style="color:#e75480">Yoshitha Maddineni</span></h3>
-<p align="center">Final Year B.Tech Student | ISRO SDSC SHAR Range Operations Intern | GITAM Training and Competency Development Intern | Machine Learning & Full Stack Developer | Data Scientist | Pythonista | Student Leader</p>
+<p align="center">Final Year B.Tech Student | GITAM Training and Competency Development Intern | Ex - Corilois Technologies Pvt. Ltd Software Testing Intern | Ex - ISRO SDSC SHAR Range Operations Intern | CSA AND CAD Certified | Machine Learning & Full Stack Developer | Data Scientist | Pythonista | Student Leader</p>
 
 ---
 
 ### 👩‍💻 About Me
 
 - 🎓 Final Year **B.Tech in Computer Science and Engineering (Data Science)** at **GITAM University**, Visakhapatnam  
-- 🧠 CGPA: **9.69**  
+- 🧠 CGPA: **9.65**  
 - 📍 Based in **Andhra Pradesh, India**
 
 ---
 
 ### 🔭 What I’m Working On
 
-- 🌦 **ISRO MAUSAM**: Advanced weather prediction system using hybrid ML models
-- 🚀 **Salesforce Launchpad (PwC Acceleration Program)**  
-- 🧩 **ServiceNow CSA & CAD Certification Training**  
+- 🚀 **Salesforce Launchpad (PwC Acceleration Program)**   
 - 👥 **Training & Competency Development Intern**, GITAM CGC
-- 🚀 **Range Operations Intern**, ISRO SDSC SHAR
-- 🌐 **Full Stack Web Development** projects using JAVA 
+- **Leetcode Placements Prep**
 
 ---
 
 ### 🌱 I’m Currently Learning
 
-- 🌩 **Advanced Time Series Forecasting** (Weather/Climate applications)
 - 🧠 **Transformer Architectures** for sequential data
 - 📊 **Big Data Analytics** for meteorological datasets
 - ☁️ **Salesforce & ServiceNow Platforms**
